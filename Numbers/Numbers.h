@@ -130,7 +130,7 @@ int getDigitalRoot(int number){
 
 //******************************************************************************
 
-void numberToWord(int num){
+void printNumberToWord(int num){
 	int temp, digit, count=0, pw;
 
 	temp = num;
